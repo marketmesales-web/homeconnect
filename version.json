@@ -1,0 +1,14 @@
+{
+    "app":  {
+                "url":  "https://github.com/marketmesales-web/homeconnect/releases/download/v4.9.0/app.py",
+                "sha256":  "c270e1fb6e25f98be1e7ebcf3d33f74f8fcc99decc9515f60ed649f83495fd92",
+                "bytes":  111347
+            },
+    "setup":  {
+                  "url":  "https://github.com/marketmesales-web/homeconnect/releases/download/v4.9.0/HomeConnect-Setup-4.9.0.exe",
+                  "sha256":  "ceb00e6ed2afe7a85c6dda704a03119e229389c0db2649fa5d800b8bac2a7ac0",
+                  "bytes":  17371042
+              },
+    "version":  "4.9.0",
+    "notes":  "HomeConnect v4.9.0"
+}
